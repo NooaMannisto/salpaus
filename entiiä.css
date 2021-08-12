@@ -25,5 +25,6 @@ div{
   background-color: white;
   color: black;
   width: 30%;
-  text-align: right;
+  text-align: center;
+  margin: auto;
 }
