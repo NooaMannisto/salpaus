@@ -13,3 +13,8 @@ div{
 ul{
   list-style: none;
 }
+
+img{
+  width: 75%;
+  height: auto; 
+}
